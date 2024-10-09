@@ -1,5 +1,5 @@
 var saludo = 'Hello GitHUB';
-var despedida = 'Adios';
+var despedida = 'Adios puta';
 
 console.log('Hello Node');
 
