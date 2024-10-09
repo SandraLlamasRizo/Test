@@ -1,10 +1,11 @@
 var saludo = 'Hello GitHUB';
+var text = 'Que tal estas?';
 var despedida = 'Adios puta';
 
 console.log('Hello Node');
 
 console.log(saludo);
 
-console.log('What the fuck');
+console.log(text);
 
 console.log(despedida);
